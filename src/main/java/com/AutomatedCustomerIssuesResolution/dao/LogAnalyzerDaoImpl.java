@@ -181,7 +181,11 @@ public class LogAnalyzerDaoImpl implements LogAnalyzerDao{
     }
 
     public Map<String, String> checkAllRules() throws Exception {
-
+        /*
+            Comment1: rulesResponse
+            This is map of strings hich contains rule names as keys and rule's actions as values, from all those rules which passes in evaluation.
+            this rulesResponse ill be returned as teh result of teh evaluation of rules on logs.
+         */
         Map<String, String> rulesResponse = new HashMap<>();
         Map<String, String> map;
         List<Log> originalLogs = logs;
@@ -202,6 +206,11 @@ public class LogAnalyzerDaoImpl implements LogAnalyzerDao{
             logsA = new ArrayList<>();
             logsB = new ArrayList<>();
 
+            /*
+            Comment2:
+            Here query from the rule will be taken out and converted to postfix.
+            Q: why postfix?
+             */
             try {
                 postfix = Utility.infixToPostfixXML(rule.getQuery(), map);
             } catch (Exception e) {
@@ -209,12 +218,22 @@ public class LogAnalyzerDaoImpl implements LogAnalyzerDao{
             }
 
             for (String s: postfix){
+                /*
+            Comment4:
+            if it is & operator then AND operator applied on 2 popped values from stack.
+            Q: How operator & works?
+             */
                 if ("&".equals(s)){
                     logsA = stack.pop();
                     logsB = stack.pop();
                     List<Log> copy = new ArrayList<>(logsA);
                     copy.retainAll(logsB);
                     stack.add(copy);
+                    /*
+                    Comment5:
+                    if it is | operator then OR operator applied on 2 popped values from stack.
+                    Q: How operator | works?
+                    */
                 }else if ("|".equals(s)){
                     logsA = stack.pop();
                     logsB = stack.pop();
@@ -222,6 +241,13 @@ public class LogAnalyzerDaoImpl implements LogAnalyzerDao{
                     copy.removeAll(logsA);
                     logsA.addAll(copy);
                     stack.add(logsA);
+                    /*
+                    Comment6:
+                    If it is &milliseconds or &-milliseconds operator( example: &3000 or &-3000 ) then custom operation will be applied on 2 popped values from stack.
+                    This custom operation will check for all the incidents where Condition A and Condition B gets evalated,
+                    it then adds it into a list. This list gets added back to stack.
+                    Q: How this custom operator works?
+                    */
                 }else if (s.contains("&")){
                     Long interval = Long.parseLong(s.substring(1, s.length()));
                     if (interval > 0){
@@ -279,6 +305,12 @@ public class LogAnalyzerDaoImpl implements LogAnalyzerDao{
                         }
                         stack.add(newList);
                     }
+                    /*
+                    Comment3:
+                    If the parameter of the postfix is operand then it will be evaluated on logs and the result will be called logsA.
+                    logsA will go to stack.
+                    Q1: what is the meaning of logsA on condition A?, OR how condition A evaluates?
+                    */
                 } else {
                     logsA = getLogsWithCriteria(originalLogs, rule.getConditionbyName(map.get(s)).mapToSearchCriteria());
                     stack.add(logsA);
