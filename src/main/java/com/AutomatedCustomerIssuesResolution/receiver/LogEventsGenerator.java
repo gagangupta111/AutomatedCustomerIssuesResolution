@@ -13,11 +13,6 @@ public class LogEventsGenerator extends LogFilePatternReceiver {
     private List<Log> logs;
     private SearchCriteria criteria;
 
-    public LogEventsGenerator(List<Log> logs) {
-        super();
-        this.logs = logs;
-    }
-
     public LogEventsGenerator(List<Log> logs, SearchCriteria criteria) {
 
         super();
