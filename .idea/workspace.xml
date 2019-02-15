@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e661e32-21b5-4470-8c8b-8c2cbac16d5b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automatedcustomerIssuesresolution/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sample/Solution/SOLUTION.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Sample/Solution/SOLUTION.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/AutomatedCustomerIssuesResolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/AutomatedCustomerIssuesResolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/constants/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/controller/LogAnalyzerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/controller/LogAnalyzerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/dao/LogAnalyzerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/dao/LogAnalyzerDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/dao/LogAnalyzerDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/dao/LogAnalyzerDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/model/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/model/Condition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/model/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/model/Log.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/model/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/model/MessageKeyValuePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/model/MessageKeyValuePair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/model/Rule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/model/Rule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/model/SearchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/model/SearchCriteria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/receiver/LogEventsGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/receiver/LogEventsGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/service/LogAnalyzerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/service/LogAnalyzerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/util/JsonDateDeSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/util/JsonDateDeSerializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/util/JsonDateSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/util/JsonDateSerializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/util/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/util/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/util/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/util/Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AutomatedCustomerIssuesResolution/util/XMLRulesParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/util/XMLRulesParser.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/constants/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -47,8 +26,8 @@
       <file leaf-file-name="XMLRulesParser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/util/XMLRulesParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="782">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,28 +35,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogAnalyzerDaoImpl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LogAnalyzerDaoImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/dao/LogAnalyzerDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="85" column="28" lean-forward="true" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
-              <folding>
-                <element signature="e#2833#2834#0" expanded="true" />
-                <element signature="e#2874#2875#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/automatedcustomerIssuesresolution/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="122">
+              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1579#1580#0" expanded="true" />
-                <element signature="e#1629#1630#0" expanded="true" />
+                <element signature="e#2010#2011#0" expanded="true" />
+                <element signature="e#2064#2065#0" expanded="true" />
+                <element signature="e#2112#2113#0" expanded="true" />
+                <element signature="e#2142#2143#0" expanded="true" />
+                <element signature="e#2202#2203#0" expanded="true" />
+                <element signature="e#2240#2241#0" expanded="true" />
+                <element signature="e#2840#2841#0" expanded="true" />
+                <element signature="e#2882#2883#0" expanded="true" />
+                <element signature="e#4489#4495#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,6 +67,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -151,12 +129,31 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="AutomatedCustomerIssuesResolution" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutomatedCustomerIssuesResolution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomatedCustomerIssuesResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomatedCustomerIssuesResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomatedCustomerIssuesResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomatedCustomerIssuesResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="CS-12345" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomatedCustomerIssuesResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomatedCustomerIssuesResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutomatedCustomerIssuesResolution" type="b2602c69:ProjectViewProjectNode" />
@@ -275,12 +272,25 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="automatedcustomerIssuesresolution" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AutomatedCustomerIssuesResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomatedCustomerIssuesResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomatedCustomerIssuesResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomatedCustomerIssuesResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="logs1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -461,7 +471,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -470,26 +479,74 @@
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.14145234" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.4787776" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.27504244" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.14145234" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.56196946" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.4787776" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.2852292" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23146747" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.4516129" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23524962" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.38709676" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.6213922" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info id="Designer" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.27504244" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.4787776" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.38709676" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.4516129" />
+      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.14145234" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23146747" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.4516129" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.4787776" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23524962" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.55178267" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.33955857" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.14145234" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -508,6 +565,35 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/util/XMLRulesParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/dao/LogAnalyzerDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2890">
+          <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2010#2011#0" expanded="true" />
+            <element signature="e#2064#2065#0" expanded="true" />
+            <element signature="e#2112#2113#0" expanded="true" />
+            <element signature="e#2142#2143#0" expanded="true" />
+            <element signature="e#2202#2203#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2840#2841#0" expanded="true" />
+            <element signature="e#2882#2883#0" expanded="true" />
+            <element signature="e#4489#4495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -599,10 +685,222 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.7.RELEASE/spring-boot-1.5.7.RELEASE.jar!/org/springframework/boot/ApplicationArguments.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/constants/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.jar!/org/mockito/InjectMocks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.11.RELEASE/spring-context-4.3.11.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.11.RELEASE/spring-core-4.3.11.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automatedcustomerIssuesresolution/profiles/Profile1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <element signature="e#1369#1370#0" expanded="true" />
-            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/util/XMLRulesParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.11.RELEASE/spring-beans-4.3.11.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/rules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/logs1/IgniteServer-2019-Jan-19-1.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1502460">
+          <caret line="88380" column="110" selection-start-line="88380" selection-start-column="110" selection-end-line="88380" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/dao/LogAnalyzerDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2010#2011#0" expanded="true" />
+            <element signature="e#2064#2065#0" expanded="true" />
+            <element signature="e#2112#2113#0" expanded="true" />
+            <element signature="e#2142#2143#0" expanded="true" />
+            <element signature="e#2202#2203#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2840#2841#0" expanded="true" />
+            <element signature="e#2882#2883#0" expanded="true" />
+            <element signature="e#4489#4495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automatedcustomerIssuesresolution/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/receiver/LogEventsGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/model/SearchCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rulesFormat.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/util/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="314" column="45" selection-start-line="314" selection-start-column="45" selection-end-line="314" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/model/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/model/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/model/Rule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/service/LogAnalyzerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/controller/LogAnalyzerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.11.RELEASE/spring-beans-4.3.11.RELEASE.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/AutomatedCustomerIssuesResolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.7.RELEASE/spring-boot-1.5.7.RELEASE.jar!/org/springframework/boot/DefaultApplicationArguments.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -624,29 +922,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-            <element signature="e#1629#1630#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/dao/LogAnalyzerDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="85" column="28" lean-forward="true" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
-          <folding>
-            <element signature="e#2833#2834#0" expanded="true" />
-            <element signature="e#2874#2875#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/util/XMLRulesParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="782">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -655,8 +937,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/constants/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automatedcustomerIssuesresolution/dao/LogAnalyzerDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2010#2011#0" expanded="true" />
+            <element signature="e#2064#2065#0" expanded="true" />
+            <element signature="e#2112#2113#0" expanded="true" />
+            <element signature="e#2142#2143#0" expanded="true" />
+            <element signature="e#2202#2203#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2840#2841#0" expanded="true" />
+            <element signature="e#2882#2883#0" expanded="true" />
+            <element signature="e#4489#4495#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
